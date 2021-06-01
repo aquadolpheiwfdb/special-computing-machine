@@ -1,0 +1,30 @@
+.body_background{
+    background-color:plum;
+}
+
+login_button{
+    border-style: solid;
+    border-color:#00008b;
+    border-width:5px;
+}
+
+#div1{
+    background-color:darkcyan;
+    border-width:5px;
+    border-color:blue;
+    border-style:dashed;
+    width:500px;
+    border-radius:10px;
+
+}
+
+#div2{
+    background-color:crimson;
+    border-width:5px;
+    border-color:darkred;
+    border-style:dashed;
+   align-items:center;
+   width:500px;
+   border-radius:10px;
+
+}

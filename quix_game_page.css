@@ -1,0 +1,21 @@
+#body_background{
+    background-color: blueviolet;
+}
+
+body {
+    background-color: blue;
+}
+
+#output{
+    background:white;
+    border-radius:10px;
+    border-top:10px solid red;
+    padding:10px;
+    float:none;
+    text-align:left;
+}
+
+#number_inputs{
+    background-color:lightcoral;
+    border-radius:10px;
+}
